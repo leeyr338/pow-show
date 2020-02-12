@@ -1,0 +1,8 @@
+[package]
+name = "pow-show"
+version = "0.1.0"
+authors = ["leeyr <leeyr338@gmial.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
